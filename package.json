@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@graphql-tools/merge": "^9.0.3",
+    "apollo-server-express": "^3.13.0",
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
